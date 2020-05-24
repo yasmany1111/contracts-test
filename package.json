@@ -1,6 +1,6 @@
 {
-  "name": "@yasmany12345/api-contracts",
-  "version": "0.0.2",
+  "name": "@yasmany1111/api-contracts",
+  "version": "0.0.1",
   "description": "This project specifies the shared contracts between frontend and api for Proflyt",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yasmany1111/contracts-test.git"
+    "url": "git+https://github.com/yasmany1111/contracts-test"
   },
   "keywords": [
     "api-contracts"
@@ -24,7 +24,7 @@
   "author": "Webtronic Labs LLC",
   "license": "SEE IN LICENSE.txt",
   "bugs": {
-    "url": "https://github.com/jessemoon0/contracts-proflyt/issues"
+    "url": "https://github.com/yasmany1111/contracts-test/issues"
   },
   "homepage": "https://github.com/jessemoon0/contracts-proflyt#readme",
   "peerDependencies": {
