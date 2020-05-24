@@ -1,5 +1,5 @@
 {
-  "name": "@yasmany1111/api-contracts",
+  "name": "@yasmany12345/api-contracts",
   "version": "0.0.2",
   "description": "This project specifies the shared contracts between frontend and api for Proflyt",
   "main": "lib/index.js",
